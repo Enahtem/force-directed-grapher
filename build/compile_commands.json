@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/build",
+  "command": "/usr/bin/g++  -I\"/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/src/graph\" -g -o CMakeFiles/Project-Eidos.dir/main.cc.o -c \"/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/main.cc\"",
+  "file": "/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/main.cc"
+},
+{
+  "directory": "/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/build/src/graph",
+  "command": "/usr/bin/g++  -I\"/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/src/graph\" -g -o CMakeFiles/graph.dir/graph.cc.o -c \"/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/src/graph/graph.cc\"",
+  "file": "/mnt/c/Users/hecto/Documents/Archives/GitHub Archive/Project-Eidos/src/graph/graph.cc"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Project-Eidos.dir/main.cc.o -o Project-Eidos  -lsfml-graphics -lsfml-window -lsfml-system -lpthread src/graph/libgraph.a 
